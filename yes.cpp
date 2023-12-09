@@ -1,3 +1,0 @@
-// yessss
-
-cout << "hello";
