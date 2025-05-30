@@ -1,4 +1,4 @@
-# YouTube Video Downloader
+# YouTube Video Downloader using Python
 
 A professional, user-friendly Python script to download YouTube videos and playlists with quality selection. Built with `yt-dlp`, this downloader provides an interactive interface to choose your preferred video quality and handles both individual videos and entire playlists.
 
